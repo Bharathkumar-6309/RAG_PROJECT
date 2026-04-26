@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a field of computer science focused on building systems that can perform tasks that normally require human intelligence.
+
+The idea of intelligent machines became popular in the 1940s and 1950s. In 1950, Alan Turing proposed a test to evaluate machine intelligence, now known as the Turing Test.
+
+In 1956, the Dartmouth Conference officially introduced the term "Artificial Intelligence" and is widely considered the birth of AI as an academic discipline.
+
+AI has gone through several cycles of progress and slowdown. Periods of low funding and reduced optimism are called AI winters. Progress accelerated again due to better algorithms, larger datasets, and powerful computing hardware such as GPUs.

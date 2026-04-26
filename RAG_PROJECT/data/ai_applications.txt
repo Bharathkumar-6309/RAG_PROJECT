@@ -1,0 +1,13 @@
+AI is used across many industries and daily-life applications.
+
+Healthcare: AI helps in medical imaging, disease prediction, and personalized treatment recommendations.
+
+Finance: AI is used for fraud detection, credit scoring, risk management, and algorithmic trading.
+
+Education: AI powers adaptive learning platforms, automated grading, and tutoring assistants.
+
+Transportation: AI supports self-driving technologies, traffic prediction, and route optimization.
+
+Customer Service: chatbots and virtual assistants provide 24/7 support and faster responses.
+
+Manufacturing: AI enables predictive maintenance, quality inspection, and robotic automation.

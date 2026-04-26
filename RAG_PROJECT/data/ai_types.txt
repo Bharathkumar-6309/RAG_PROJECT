@@ -1,0 +1,11 @@
+AI systems are often categorized into Narrow AI and General AI.
+
+Narrow AI, also called Weak AI, is designed for specific tasks. Examples include spam filters, recommendation systems, and voice assistants.
+
+General AI, also called Strong AI, refers to a hypothetical system that can perform any intellectual task a human can do. General AI does not yet exist.
+
+Another common way to classify AI is by functionality:
+- Reactive Machines: respond to current inputs only.
+- Limited Memory: use past data for short-term decision making.
+- Theory of Mind: would understand emotions and beliefs (still theoretical).
+- Self-aware AI: hypothetical systems with self-consciousness.
